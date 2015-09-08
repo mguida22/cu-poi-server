@@ -4,15 +4,14 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
-var api = require('./routes/api');
-
 var app = express();
 
 var env = process.env.NODE_ENV || 'development';
 app.locals.ENV = env;
 app.locals.ENV_DEVELOPMENT = env == 'development';
 
-app.use('/api', api);
+var poi = require('./routes/poi');
+app.use('/api/poi', poi);
 
 app.get('/', function(req, res){
   res.sendStatus(200);
