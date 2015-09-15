@@ -1,3 +1,772 @@
 [
-  
+  {
+    "key":"BESC",
+    "name":"Benson Earth Sciences",
+    "lat":"40.007921",
+    "long":"-105.265934",
+    "category":"Academic"
+  },
+  {
+    "key":"ADEN",
+    "name":"Aden Hall",
+    "lat":"40.006811",
+    "long":"-105.265382",
+    "category":"Residential"
+  },
+  {
+    "key":"MATH",
+    "name":"Mathematics Building",
+    "lat":"40.007763",
+    "long":"-105.264566",
+    "category":"Academic"
+  },
+  {
+    "key":"LIBY",
+    "name":"Libby Hall",
+    "lat":"40.006883",
+    "long":"-105.266363",
+    "category":"Residential"
+  },
+  {
+    "key":"BKER",
+    "name":"Baker Hall",
+    "lat":"40.006855",
+    "long":"-105.267819",
+    "category":"Residential"
+  },
+  {
+    "key":"FRND",
+    "name":"Farrand Hall",
+    "lat":"40.006017",
+    "long":"-105.265844",
+    "category":"Residential"
+  },
+  {
+    "key":"BRKT",
+    "name":"Brackett Hall",
+    "lat":"40.007135",
+    "long":"-105.264937",
+    "category":"Residential"
+  },
+  {
+    "key":"CKRL",
+    "name":"Cockerell Hall",
+    "lat":"40.006814",
+    "long":"-105.264519",
+    "category":"Residential"
+  },
+  {
+    "key":"CROS",
+    "name":"Crosman Hall",
+    "lat":"40.006284",
+    "long":"-105.264776",
+    "category":"Residential"
+  },
+  {
+    "key":"REED",
+    "name":"Reed Hall",
+    "lat":"40.005717",
+    "long":"-105.264766",
+    "category":"Residential"
+  },
+  {
+    "key":"HLET",
+    "name":"Hallett Hall",
+    "lat":"40.005010",
+    "long":"-105.264969",
+    "category":"Residential"
+  },
+  {
+    "key":"WLRD",
+    "name":"Willard Hall",
+    "lat":"40.005195",
+    "long":"-105.266251",
+    "category":"Residential"
+  },
+  {
+    "key":"CHEY",
+    "name":"Cheyenne Arapaho Hall",
+    "lat":"40.005199",
+    "long":"-105.267839",
+    "category":"Residential"
+  },
+  {
+    "key":"SWLL",
+    "name":"Sewall Hall",
+    "lat":"40.010503",
+    "long":"-105.271135",
+    "category":"Residential"
+  },
+  {
+    "key":"KITW",
+    "name":"Kittredge West Hall",
+    "lat":"40.002804",
+    "long":"-105.264263",
+    "category":"Residential"
+  },
+  {
+    "key":"KCEN",
+    "name":"Kittredge Central Hall",
+    "lat":"40.002693",
+    "long":"-105.263120",
+    "category":"Residential"
+  },
+  {
+    "key":"ANDS",
+    "name":"Andrews Hall",
+    "lat":"40.003050",
+    "long":"-105.262138",
+    "category":"Residential"
+  },
+  {
+    "key":"SMTH",
+    "name":"Smith Hall",
+    "lat":"40.002261",
+    "long":"-105.261994",
+    "category":"Residential"
+  },
+  {
+    "key":"BUCK",
+    "name":"Buckingham Hall",
+    "lat":"40.002409",
+    "long":"-105.260819",
+    "category":"Residential"
+  },
+  {
+    "key":"ARNT",
+    "name":"Arnett Hall",
+    "lat":"40.003387",
+    "long":"-105.261108",
+    "category":"Residential"
+  },
+  {
+    "key":"STRN",
+    "name":"Stearns Towers",
+    "lat":"39.999015",
+    "long":"-105.251973",
+    "category":"Residential"
+  },
+  {
+    "key":"BCAP",
+    "name":"Bear Creek Apartments at Williams Village",
+    "lat":"39.997043",
+    "long":"-105.250213",
+    "category":"Residential"
+  },
+  {
+    "key":"DLYC",
+    "name":"Darley Commons",
+    "lat":"39.997746",
+    "long":"-105.251758",
+    "category":"Residential"
+  },
+  {
+    "key":"DLYT",
+    "name":"Darley Towers",
+    "lat":"39.998136",
+    "long":"-105.252370",
+    "category":"Residential"
+  },
+  {
+    "key":"DUAN",
+    "name":"Duane Physics and Astrophysics",
+    "lat":"40.007960",
+    "long":"-105.267617",
+    "category":"Academic"
+  },
+  {
+    "key":"DDW",
+    "name":"Duane D-Wing",
+    "lat":"40.007799",
+    "long":"-105.268850",
+    "category":"Academic"
+  },
+  {
+    "key":"JILA",
+    "name":"Joint Institute for Lab Astrophysics",
+    "lat":"40.006998",
+    "long":"-105.268625",
+    "category":"Academic"
+  },
+  {
+    "key":"POWR",
+    "name":"Power House",
+    "lat":"40.007561",
+    "long":"-105.269258",
+    "category":"Administration"
+  },
+  {
+    "key":"ENVD",
+    "name":"Environmental Design",
+    "lat":"40.006943",
+    "long":"-105.269231",
+    "category":"Academic"
+  },
+  {
+    "key":"MUS",
+    "name":"Imig Music",
+    "lat":"40.006002",
+    "long":"-105.268995",
+    "category":"Academic"
+  },
+  {
+    "key":"TLC",
+    "name":"Technology Learning Center",
+    "lat":"40.006955",
+    "long":"-105.269805",
+    "category":"Academic"
+  },
+  {
+    "key":"WARD",
+    "name":"Wardenburg Student Health Center",
+    "lat":"40.005279",
+    "long":"-105.268899",
+    "category":"Administration"
+  },
+  {
+    "key":"ATLS",
+    "name":"Roser ATLAS Center",
+    "lat":"40.007617",
+    "long":"-105.269875",
+    "category":"Academic"
+  },
+  {
+    "key":"VAC",
+    "name":"Visual Arts Complex",
+    "lat":"40.007547",
+    "long":"-105.270487",
+    "category":"Academic"
+  },
+  {
+    "key":"KTCH",
+    "name":"Ketchum Arts and Sciences",
+    "lat":"40.008053",
+    "long":"-105.270203",
+    "category":"Academic"
+  },
+  {
+    "key":"CHEM",
+    "name":"Cristol Chemistry and Biochemistry",
+    "lat":"40.007469",
+    "long":"-105.271308",
+    "category":"Academic"
+  },
+  {
+    "key":"CIRE",
+    "name":"Cooperative Institute for Research in Environmental Sciences",
+    "lat":"40.007901",
+    "long":"-105.271405",
+    "category":"Academic"
+  },
+  {
+    "key":"EKLC",
+    "name":"Ekeley Sciences",
+    "lat":"40.008102",
+    "long":"-105.271780",
+    "category":"Academic"
+  },
+  {
+    "key":"UMC",
+    "name":"University Memorial Center",
+    "lat":"40.006734",
+    "long":"-105.271507",
+    "category":"Administration"
+  },
+  {
+    "key":"HLMS",
+    "name":"Hellems Arts and Sciences",
+    "lat":"40.007572",
+    "long":"-105.272762",
+    "category":"Academic"
+  },
+  {
+    "key":"EDUC",
+    "name":"Education",
+    "lat":"40.007420",
+    "long":"-105.273588",
+    "category":"Academic"
+  },
+  {
+    "key":"LIBR",
+    "name":"Norlin Library",
+    "lat":"40.008727",
+    "long":"-105.270772",
+    "category":"Academic"
+  },
+  {
+    "key":"THTR",
+    "name":"University Theatre",
+    "lat":"40.008147",
+    "long":"-105.273567",
+    "category":"Academic"
+  },
+  {
+    "key":"GUGG",
+    "name":"Guggenheim Geography",
+    "lat":"40.008172",
+    "long":"-105.274205",
+    "category":"Academic"
+  },
+  {
+    "key":"HEND",
+    "name":"Museum of Natural History",
+    "lat":"40.006927",
+    "long":"-105.272741",
+    "category":"Academic"
+  },
+  {
+    "key":"DEN",
+    "name":"Denison Arts and Sciences",
+    "lat":"40.006948",
+    "long":"-105.273374",
+    "category":"Academic"
+  },
+  {
+    "key":"MCOL",
+    "name":"Bruce Curtis Building (Museum Collections)",
+    "lat":"40.007490",
+    "long":"-105.274173",
+    "category":"Academic"
+  },
+  {
+    "key":"COTT",
+    "name":"Gates Woodruff Women's Studies Cottage",
+    "lat":"40.008164",
+    "long":"-105.274811",
+    "category":"Academic"
+  },
+  {
+    "key":"ECON",
+    "name":"Economics",
+    "lat":"40.007827",
+    "long":"-105.274532",
+    "category":"Academic"
+  },
+  {
+    "key":"HALE",
+    "name":"Hale Science",
+    "lat":"40.009226",
+    "long":"-105.274951",
+    "category":"Academic"
+  },
+  {
+    "key":"MAIN",
+    "name":"Old Main",
+    "lat":"40.009226",
+    "long":"-105.273315",
+    "category":"Administration"
+  },
+  {
+    "key":"MCKY",
+    "name":"Macky Auditorium",
+    "lat":"40.009904",
+    "long":"-105.272747",
+    "category":"Administration"
+  },
+  {
+    "key":"CLRE",
+    "name":"Clare Small Arts and Sciences",
+    "lat":"40.010502",
+    "long":"-105.270010",
+    "category":"Academic"
+  },
+  {
+    "key":"CLUB",
+    "name":"Univeristy CLub",
+    "lat":"40.005411",
+    "long":"-105.270656",
+    "category":"Administration"
+  },
+  {
+    "key":"DALW",
+    "name":"Dal Ward Athletic Center",
+    "lat":"40.010362",
+    "long":"-105.266863",
+    "category":"Administration"
+  },
+  {
+    "key":"ALUM",
+    "name":"Koenig Alumni Center",
+    "lat":"40.009944",
+    "long":"-105.275941",
+    "category":"Administration"
+  },
+  {
+    "key":"MKNA",
+    "name":"McKenna Languages",
+    "lat":"40.009723",
+    "long":"-105.273608",
+    "category":"Academic"
+  },
+  {
+    "key":"PFDC",
+    "name":"Page Foundation Center",
+    "lat":"40.010808",
+    "long":"-105.275697",
+    "category":"Administration"
+  },
+  {
+    "key":"IBS",
+    "name":"Institute of Behavioral Science",
+    "lat":"40.011308",
+    "long":"-105.274428",
+    "category":"Academic"
+  },
+  {
+    "key":"ARMR",
+    "name":"Armory",
+    "lat":"40.010906",
+    "long":"-105.273892",
+    "category":"Administration"
+  },
+  {
+    "key":"CAS",
+    "name":"Center for Asian Studies",
+    "lat":"40.011132",
+    "long":"-105.276884",
+    "category":"Academic"
+  },
+  {
+    "key":"CEDU",
+    "name":"Continuing Education",
+    "lat":"40.010813",
+    "long":"-105.274416",
+    "category":"Administration"
+  },
+  {
+    "key":"CICC",
+    "name":"College Inn",
+    "lat":"40.012805",
+    "long":"-105.271864",
+    "category":"Residential"
+  },
+  {
+    "key":"ATCT",
+    "name":"Athens Court",
+    "lat":"40.012252",
+    "long":"-105.268884",
+    "category":"Residential"
+  },
+  {
+    "key":"ATHN",
+    "name":"Athens North Court",
+    "lat":"40.012888",
+    "long":"-105.270823",
+    "category":"Residential"
+  },
+  {
+    "key":"FACT",
+    "name":"Faculty-Staff Court",
+    "lat":"40.012276",
+    "long":"-105.270771",
+    "category":"Residential"
+  },
+  {
+    "key":"MRCT",
+    "name":"Marine Court",
+    "lat":"40.013080",
+    "long":"-105.268249",
+    "category":"Residential"
+  },
+  {
+    "key":"W-AP",
+    "name":"Athletics Practice Field",
+    "lat":"40.012375",
+    "long":"-105.266139",
+    "category":"Administration"
+  },
+  {
+    "key":"NTCT",
+    "name":"Newton Court",
+    "lat":"40.013324",
+    "long":"-105.264623",
+    "category":"Residential"
+  },
+  {
+    "key":"WDBY",
+    "name":"Woodbury Arts and Sciences",
+    "lat":"40.009220",
+    "long":"-105.272304",
+    "category":"Academic"
+  },
+  {
+    "key":"HUMN",
+    "name":"Eaton Humanities",
+    "lat":"40.009190",
+    "long":"-105.271850",
+    "category":"Academic"
+  },
+  {
+    "key":"RAMY",
+    "name":"Ramaley Biology",
+    "lat":"40.008922",
+    "long":"-105.269671",
+    "category":"Academic"
+  },
+  {
+    "key":"REC",
+    "name":"Student Recreation Center",
+    "lat":"40.009835",
+    "long":"-105.269603",
+    "category":"Administration"
+  },
+  {
+    "key":"PORT",
+    "name":"Porter Biosciences",
+    "lat":"40.008932",
+    "long":"-105.268873",
+    "category":"Academic"
+  },
+  {
+    "key":"GOLD",
+    "name":"Gold Biosciences Building",
+    "lat":"40.008665",
+    "long":"-105.268246",
+    "category":"Academic"
+  },
+  {
+    "key":"MUEN",
+    "name":"Muenzinger Psychology",
+    "lat":"40.008467",
+    "long":"-105.268898",
+    "category":"Academic"
+  },
+  {
+    "key":"CARL",
+    "name":"Carlson Gymnasium",
+    "lat":"40.009451",
+    "long":"-105.268679",
+    "category":"Administration"
+  },
+  {
+    "key":"UCTR",
+    "name":"University Administrative Center",
+    "lat":"40.004102",
+    "long":"-105.268092",
+    "category":"Administrative"
+  },
+  {
+    "key":"RGNT",
+    "name":"Regent Administrative Center",
+    "lat":"40.004412",
+    "long":"-105.267036",
+    "category":"Administrative"
+  },
+  {
+    "key":"C4C",
+    "name":"Center for Community",
+    "lat":"40.004386",
+    "long":"-105.264981",
+    "category":"Administrative"
+  },
+  {
+    "key":"FLMG",
+    "name":"Fleming Building",
+    "lat":"40.002023",
+    "long":"-105.263419",
+    "category":"Academic"
+  },
+  {
+    "key":"WLAW",
+    "name":"Wolf Law",
+    "lat":"40.001211",
+    "long":"-105.262330",
+    "category":"Academic"
+  },
+  {
+    "key":"FISK",
+    "name":"Fiske Planetarium and Science Center",
+    "lat":"40.003594",
+    "long":"-105.263417",
+    "category":"Administration"
+  },
+  {
+    "key":"OBSV",
+    "name":"Sommers-Bausch Observatory",
+    "lat":"40.003698",
+    "long":"-105.262987",
+    "category":"Administration"
+  },
+  {
+    "key":"SLHS",
+    "name":"Speech Language and Hearing Sciences",
+    "lat":"40.003864",
+    "long":"-105.262497",
+    "category":"Academic"
+  },
+  {
+    "key":"EVNT",
+    "name":"Coors Event/Conference Center",
+    "lat":"40.004647",
+    "long":"-105.260612",
+    "category":"Administration"
+  },
+  {
+    "key":"EC",
+    "name":"Engineering Center",
+    "lat":"40.007187",
+    "long":"-105.263063",
+    "category":"Academic"
+  },
+  {
+    "key":"KOBL",
+    "name":"Koelbel Building",
+    "lat":"40.005867",
+    "long":"-105.263457",
+    "category":"Academic"
+  },
+  {
+    "key":"PDPS",
+    "name":"Police and Parking Services",
+    "lat":"40.006785",
+    "long":"-105.261081",
+    "category":"Administration"
+  },
+  {
+    "key":"LESS",
+    "name":"Lesser House",
+    "lat":"40.008427",
+    "long":"-105.26176",
+    "category":"Academic"
+  },
+  {
+    "key":"STAD",
+    "name":"Folsom Field",
+    "lat":"40.009393",
+    "long":"-105.266914",
+    "category":"Administration"
+  },
+  {
+    "key":"ARCE",
+    "name":"Administrative and Research Center",
+    "lat":"40.013168",
+    "long":"-105.251935",
+    "category":"Administrative"
+  },
+  {
+    "key":"CASA",
+    "name":"Center for Astrophysics and Space Astronomy",
+    "lat":"40.008032",
+    "long":"-105.246324",
+    "category":"Academic"
+  },
+  {
+    "key":"COMP",
+    "name":"Computing Center",
+    "lat":"40.014055",
+    "long":"-105.247225",
+    "category":"Administrative"
+  },
+  {
+    "key":"GH-3",
+    "name":"Research Park Greenhouse",
+    "lat":"40.010670",
+    "long":"-105.252461",
+    "category":"Administration"
+  },
+  {
+    "key":"HSSC",
+    "name":"Housing System Service Center",
+    "lat":"40.013930",
+    "long":"-105.249286",
+    "category":"Administration"
+  },
+  {
+    "key":"HSMC",
+    "name":"Housing System Maintenance Center",
+    "lat":"40.013021",
+    "long":"-105.248581",
+    "category":"Administration"
+  },
+  {
+    "key":"IBG",
+    "name":"Institute for Behavioral Genetics",
+    "lat":"40.011720",
+    "long":"-105.252917",
+    "category":"Administration"
+  },
+  {
+    "key":"LITR",
+    "name":"Research Laboratory No. 1, Litman",
+    "lat":"40.013215",
+    "long":"-105.253012",
+    "category":"Administration"
+  },
+  {
+    "key":"LSRL",
+    "name":"Research Laboratory No. 4, Life Science",
+    "lat":"40.012096",
+    "long":"-105.252823",
+    "category":"Administration"
+  },
+  {
+    "key":"LSTR",
+    "name":"LASP Space Technology Research Center",
+    "lat":"40.009111",
+    "long":"-105.247411",
+    "category":"Administration"
+  },
+  {
+    "key":"MSSC",
+    "name":"Research Laboratory No. 6, Marine Street Science Center",
+    "lat":"40.013971",
+    "long":"-105.250238",
+    "category":"Administration"
+  },
+  {
+    "key":"RL2",
+    "name":"Research Laboratory No. 2, RL2",
+    "lat":"40.012571",
+    "long":"-105.253023",
+    "category":"Administration"
+  },
+  {
+    "key":"SLL",
+    "name":"Science Learning Laboratory",
+    "lat":"40.012800",
+    "long":"-105.249805",
+    "category":"Administration"
+  },
+  {
+    "key":"SMCT",
+    "name":"Smiley Court",
+    "lat":"40.008911",
+    "long":"-105.252435",
+    "category":"Residential"
+  },
+  {
+    "key":"SPSC",
+    "name":"Space Science Building",
+    "lat":"40.011645",
+    "long":"-105.245723",
+    "category":"Administration"
+  },
+  {
+    "key":"TRAN",
+    "name":"Transportation Center and Annex",
+    "lat":"40.013984",
+    "long":"-105.251229",
+    "category":"Administration"
+  },
+  {
+    "key":"W-PF",
+    "name":"Potts Field",
+    "lat":"40.010404",
+    "long":"-105.248638",
+    "category":"Administration"
+  },
+  {
+    "key":"W-PRF",
+    "name":"Prentup Field",
+    "lat":"40.010234",
+    "long":"-105.250434",
+    "category":"Administration"
+  },
+  {
+    "key":"MAC",
+    "name":"MacAllister Building",
+    "lat":"40.009776",
+    "long":"-105.242180",
+    "category":"Administration"
+  }
 ]
