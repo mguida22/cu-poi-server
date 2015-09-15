@@ -1,0 +1,30 @@
+[
+  {
+    "key":"BESC",
+    "name":"Benson Earth Sciences",
+    "lat":40.007921,
+    "long":-105.265934,
+    "category":"Academic"
+  },
+  {
+    "key":"ADEN",
+    "name":"Aden Hall",
+    "lat":40.006811,
+    "long":-105.265382,
+    "category":"Residential"
+  },
+  {
+    "key":"MATH",
+    "name":"Mathematics Building",
+    "lat":40.007763,
+    "long":-105.264566,
+    "category":"Academic"
+  },
+  {
+    "key":"MAC",
+    "name":"MacAllister Building",
+    "lat":40.009776,
+    "long":-105.242180,
+    "category":"Administration"
+  }
+]
