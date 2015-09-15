@@ -1,4 +1,4 @@
-# cu-poi-server
+# cu-poi-server ![travis build status](https://travis-ci.org/mguida22/cu-poi-server.svg?branch=develop)
 Node server for the cu-poi API
 
 ### TODO
