@@ -1,6 +1,7 @@
 var express = require('express'),
-    router = express.Router(),
-    helper = require('../lib/helper');
+    router  = express.Router(),
+    helper  = require('../lib/helper'),
+    data    = require('../data/data.json');
 
 router.get('/closest', function(req, res) {
   var lat = req.query.lat;
@@ -43,6 +44,10 @@ router.get('/search', function(req, res) {
   }
 
   res.json(helper.searchForPOI(query));
+});
+
+router.get('/all', function(req, res) {
+  res.json(data);
 });
 
 module.exports = router;
