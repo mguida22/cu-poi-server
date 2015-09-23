@@ -1,5 +1,6 @@
 var request = require('supertest'),
     expect  = require('chai').expect,
+    data    = require('../../data/data.json'),
     app     = require('../../app');
 
 describe('poi route', function(){
@@ -75,4 +76,15 @@ describe('poi route', function(){
     });
   });
 
+  describe('all', function() {
+    it('should return all data', function(done) {
+      request(app).get('/api/poi/all')
+      .set('Accept', 'application/json')
+      .expect(200)
+      .end(function(err, res){
+        expect(res.body.length).to.equal(data.length);
+        done();
+      });
+    });
+  });
 });
