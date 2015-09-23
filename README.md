@@ -7,7 +7,7 @@ Node server for the cu-poi API
  - [x] Setup and write tests for all functions
  - [x] Convert existing data from XML to JSON (including data-entry script)
  - [ ] Finish adding data for the rest of CU Campus
- - [ ] Endpoint for all POIs
+ - [x] Endpoint for all POIs
  - [ ] Setup hosting (AWS?)
  - [ ] Improved searching (current search is really bad.. :grimacing:)
  - [ ] Move data into a database and update data-entry script to add to database
@@ -47,6 +47,12 @@ localhost:3000/api/poi/range?lat=40.0055147&long=-105.2637899&range=100
 Search for POI using query:
 ```
 localhost:3000/api/poi/search?q=bk
+```
+
+All Data:
+(**this can get large**)
+```
+localhost:3000/api/poi/all
 ```
 
 ### Adding Data
