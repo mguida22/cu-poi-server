@@ -1,4 +1,6 @@
 import json
+import os.path
+import sys
 
 # class to store related info for each poi
 class Poi:
@@ -35,9 +37,16 @@ def not_duplicate(data, key):
             return False
     return True
 
+# get filepath
+if (os.path.isfile('data.json')):
+  file_path = 'data.json'
+elif (os.path.isfile('data/data.json')):
+  file_path = 'data/data.json'
+else:
+  sys.exit()
 
 # read in all existing data so we can check for duplicates
-with open('data.json', 'r') as f:
+with open(file_path, 'r') as f:
     data = json.load(f)
 
 # take in data and check for duplicates
@@ -66,7 +75,7 @@ while (run):
         run = False
 
 # save data back to file
-with open('data.json', 'w') as f:
+with open(file_path, 'w') as f:
     f.write(json.dumps(data, indent = 2))
 
 print()
