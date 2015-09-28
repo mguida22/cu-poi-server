@@ -21,11 +21,11 @@ class Poi:
     # build json from POI
     def to_json(self):
         json_str = {
-          "key":      self.key,
-          "name":     self.name,
-          "lat":      self.lat,
-          "long":     self.long,
-          "category": self.category
+            "key":      self.key,
+            "name":     self.name,
+            "lat":      self.lat,
+            "long":     self.long,
+            "category": self.category
         }
 
         return json_str
@@ -39,11 +39,11 @@ def not_duplicate(data, key):
 
 # get filepath
 if (os.path.isfile('data.json')):
-  file_path = 'data.json'
+    file_path = 'data.json'
 elif (os.path.isfile('data/data.json')):
-  file_path = 'data/data.json'
+    file_path = 'data/data.json'
 else:
-  sys.exit()
+    sys.exit()
 
 # read in all existing data so we can check for duplicates
 with open(file_path, 'r') as f:
@@ -65,7 +65,7 @@ while (run):
         if (poi.is_complete()):
             data.append(poi.to_json())
         else:
-          print('Cannot add incomplete POI')
+            print('Cannot add incomplete POI')
 
     else:
         print('Duplicate key. ' + key + ' already exists')
